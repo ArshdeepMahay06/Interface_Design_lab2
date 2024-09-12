@@ -1,0 +1,35 @@
+/** Step one **/
+/* Done in the HTML of the index.html */
+
+/** Step two **/
+h1,h2,h3,h4,h5,h6{
+  font-family: "Oswald",sans-serif;
+}
+
+
+/** Step three **/
+h1{
+  font-size: 46px;
+  letter-spacing: 1.3px;
+  text-align: center;
+  color: #175797;
+}
+
+
+/** Step four **/
+p,li,a{
+  font-family: "Montserrat",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/** Step five **/
+body p span{
+  color: #4D4D4D;
+}
+
+
+/** Step six **/
+h3{
+  font-size: 5em;
+  text-shadow: 5px 3px 7px #000;
+}
